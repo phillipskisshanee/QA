@@ -23,6 +23,11 @@ body {
   background-color: #c2c2c2;
 }  
 
+aside {
+  float: right;
+}
+
+
 li {
   display: inline;
   padding: 5px;
