@@ -12,7 +12,8 @@ body {
 }
 
 aside {
-  float: left;
+  float: right;
+  display: block;
 }
 
 #page {
