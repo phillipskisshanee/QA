@@ -34,6 +34,7 @@ aside {
 li {
   display: inline;
   padding: 5px;
+  font-size: large;
 }
 section {
     margin: 3em 0;
