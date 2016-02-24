@@ -79,7 +79,11 @@ h1 {
 }
 h2 {
   font-family: 'Josefin Slab', serif;  
+<<<<<<< HEAD
   color: #68adab;
+=======
+  color: #79ccd2;
+>>>>>>> master
   font-size: 1.3em;
   text-align: center;
 }
