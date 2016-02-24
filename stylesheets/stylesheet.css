@@ -29,12 +29,13 @@ aside {
 #nav {
   padding: 10px;
   margin:10px;
+  font-size: x-large;
 }
 
 li {
   display: inline;
   padding: 5px;
-  font-size: x-large;
+  font-size:large;
 }
 section {
     margin: 3em 0;
